@@ -23,8 +23,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cake_01.mtl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cake_01.mtl">
+      <file leaf-file-name="Cake.mtl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cake.mtl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-349" />
           </provider>
@@ -178,12 +178,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538466222888</updated>
-      <workItem from="1538466225928" duration="12970000" />
+      <workItem from="1538466225928" duration="13366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12970000" />
+    <option name="totallyTimeSpent" value="13366000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -196,7 +196,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="74" y="149" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
@@ -245,7 +244,7 @@
     <entry file="file://$PROJECT_DIR$/Cake.obj">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cake_01.mtl">
+    <entry file="file://$PROJECT_DIR$/Cake.mtl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-349" />
       </provider>
