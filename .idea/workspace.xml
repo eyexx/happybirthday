@@ -14,8 +14,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="23" column="119" lean-forward="true" selection-start-line="23" selection-start-column="119" selection-end-line="23" selection-end-column="119" />
+            <state relative-caret-position="193">
+              <caret line="23" column="116" selection-start-line="23" selection-start-column="116" selection-end-line="23" selection-end-column="116" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -178,12 +178,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538466222888</updated>
-      <workItem from="1538466225928" duration="9475000" />
+      <workItem from="1538466225928" duration="9717000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9475000" />
+    <option name="totallyTimeSpent" value="9717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="74" y="149" width="1280" height="777" extended-state="0" />
@@ -199,7 +199,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.6382353" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.23970588" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
@@ -242,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="23" column="119" lean-forward="true" selection-start-line="23" selection-start-column="119" selection-end-line="23" selection-end-column="119" />
+        <state relative-caret-position="193">
+          <caret line="23" column="116" selection-start-line="23" selection-start-column="116" selection-end-line="23" selection-end-column="116" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
